@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
                 Tips and Tricks
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                Free Estimate
               </Link>
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
